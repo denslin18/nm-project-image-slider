@@ -73,8 +73,8 @@ Render / Railway / MongoDB Atlas → for backend and database hosting
 
 Challenges:
 
-Image loading delay	
-Slider performance	
-Responsive layout issues	
-Backend integration	
-Deployment error
+1.Image loading delay	
+2.Slider performance	
+3.Responsive layout issues	
+4.Backend integration	
+5.Deployment error
